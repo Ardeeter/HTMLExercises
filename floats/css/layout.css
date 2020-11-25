@@ -1,0 +1,42 @@
+.header {
+    height: 100px;
+    margin: 10px;
+    background-color: limegreen;
+    font-size: 30px;
+    text-align: center;
+    border: 1px solid black;
+    clear: both;
+}
+
+.left{
+    background-color: yellow;
+    float: left;
+    position: sticky;
+    /* display: inline-block; */
+    padding: 20px;
+    width: 300px;
+    border: 1px solid black;
+    margin: 0px 10px 10px 10px;
+
+}
+
+.right{
+    background-color: yellow;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px 10px 10px 360px;
+    background-color: purple;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.foot{           
+    height: 60px;
+    background-color: turquoise;
+    font-size: 20px;
+    text-align: center;
+    padding: 20px;
+    border: 1px solid black;
+    margin: 10px;
+    clear: both;
+}
